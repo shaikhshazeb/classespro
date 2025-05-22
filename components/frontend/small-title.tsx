@@ -1,7 +1,7 @@
 
 import React from 'react'
 
-export default function SmallTitle({title}:{title:String}) {
+export default function SmallTitle({ title }: { title: string }) {
   return (
             <div className="inline-flex items-center rounded-full border border-neutral-200 bg-white px-3 py-1 text-sm text-neutral-700 shadow-sm mb-6">
           <span className="flex items-center gap-1">

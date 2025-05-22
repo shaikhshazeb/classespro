@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { Zap, RefreshCw } from "lucide-react"
+import { RefreshCw } from "lucide-react"
 import SectionHeader from "./section-header"
 
 export default function GridFeatures() {
@@ -129,13 +129,13 @@ export default function GridFeatures() {
 
                   <div className="space-y-2">
                     <div className="p-3 border rounded-lg text-sm hover:bg-gray-50 cursor-pointer">
-                      "Create a fun vacation recap video"
+                      &quot;Create a fun vacation recap video
                     </div>
                     <div className="p-3 border rounded-lg text-sm hover:bg-gray-50 cursor-pointer">
-                      "Generate a birthday celebration montage"
+                      &quot;Generate a birthday celebration montage
                     </div>
                     <div className="p-3 border rounded-lg text-sm hover:bg-gray-50 cursor-pointer">
-                      "Make a stylish daily vlog"
+                      &quot;Make a stylish daily vlog
                     </div>
                   </div>
                 </div>
